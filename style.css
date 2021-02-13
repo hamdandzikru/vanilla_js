@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+body{
+    min-height: 2000px;
+}
 .banner{
     position: fixed;
     top: 0;
